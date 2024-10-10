@@ -5,7 +5,7 @@
 This is my very simple personal dotfiles, **pcmanfm** my application launcher and files manager, my shutdown and reboot are the commands in terminal and **firefox** is my notifications deamon.
 
 ## Dependencies
-<img src="https://github.com/monte0x00/i3-dotfiles/blob/main/screenshot1.png" align="right" width="390px">
+<img src="https://github.com/monte0x00/i3-dotfiles/blob/main/screenshot1.png" align="right" width="380px">
 
 | desc.  | name |
 | ------------- | ------------- |
