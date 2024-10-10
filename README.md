@@ -73,6 +73,7 @@ This is my very simple personal dotfiles, **pcmanfm** my application launcher an
 ![](https://github.com/monte0x00/i3-dotfiles/blob/main/screenshot1.png)
 ![](https://github.com/monte0x00/i3-dotfiles/blob/main/screenshot2.png)
 ![](https://github.com/monte0x00/i3-dotfiles/blob/main/wp.png)
+wallpaper made by **[Aoi Ogata](https://aminoapps.com/c/art/page/item/aoi-ogata/Y6hX_Iex1zr24nldagnobRkZpdJeLd)**
 
 ## Keybinds
 <img src="https://i.sstatic.net/gXQhI.jpg" align="right" width="250px">
