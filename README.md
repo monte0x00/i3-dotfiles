@@ -1,4 +1,4 @@
-# monte0x00 i3-dotfiles ♥
+# monte0x00 i3-dotfiles ♥ [![awesome-rice-badge](https://raw.githubusercontent.com/zemmsoares/awesome-rices/main/assets/awesome-rice-badge.svg)](https://github.com/zemmsoares/awesome-rices)
 
 ### The **i3wm** & **alacritty** dotfiles! 
 
