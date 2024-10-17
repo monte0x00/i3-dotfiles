@@ -73,7 +73,7 @@ exec xrandr --output DVI-D-0 --off --output HDMI-A-0 --mode 1920x1080 --rate 60.
 font pango:Iosevka Nerd Font 11
 
 #window gaps
-gaps inner 0
+gaps inner 20
 gaps outer 0
 smart_gaps on
 smart_borders on
